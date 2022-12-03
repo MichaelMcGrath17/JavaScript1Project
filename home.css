@@ -3,8 +3,21 @@
     text-align: center;
 }
 
-
-* {
-    background-color: lightgreen;
+body {
+    align-items: center;
+    text-align: center;
 }
+
+p {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+img {
+    width: 30%;
+    align-items: center;
+    padding: 5%;
+}
+
+
 
