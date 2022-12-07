@@ -3,14 +3,23 @@ p {
 }
 
 label {
-    color: limegreen;
+    color:darkgreen;
     
 }
 
 * {
-    background-color: lightcoral;
+    background-color:aliceblue;
 }
 
 body {
     background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+
+#awesome {
+    width: 40%;
 }
